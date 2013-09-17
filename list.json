@@ -1,0 +1,7 @@
+[
+  {
+    "name": "РТСЛА",
+    "path": "/vmk.csv",
+    "group_regex": "^М?9.*"
+  }
+]
